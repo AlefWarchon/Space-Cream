@@ -11,9 +11,9 @@
 > <br/>
 > - Simple Animations.
 > <br/>
-> - Grid;
+> - Transitions;
 > <br/>
-> - Animations and transitions;
+> - Grid;
 > <br/>
 > - Media queries. 
 </p>
