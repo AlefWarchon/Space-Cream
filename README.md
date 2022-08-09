@@ -21,15 +21,7 @@
 <hr/>
 
 <div align="center">
-
 <h3>Figma</h3>
-
-<img src="./assets/figma.png" />
-
-<br/>
-
-<sup>Figma link:</sup>	
-<br/>	
 <a href="https://www.figma.com/file/NNOcmHW5IVNgldbOufuUgI/Stage-03-Grid-com-anima%C3%A7%C3%B5es-Copy?fuid=1130144160993271217"> <img width="40px" src="./assets/figmaicon.png" />
 </a>
 <br/>
@@ -40,22 +32,10 @@
 <hr/>
 
 <div align="center">
-
-<h3 align="center">Mobile First!</h3>
-
-<img src="./assets/mobile.png" />
-
+<h3>Live Preview:</h3>
+<a href="https://alefwarchon.github.io/Space-Cream/">Link<a/>
 </div>
 
-<hr/>
-
-<div align="center">
-
-<h3 align="center">Desktop Version!</h3>
-
-<img src="./assets/final.png" />
-
-</div>
 
 <hr/>
 
