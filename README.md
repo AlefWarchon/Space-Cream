@@ -1,4 +1,4 @@
-## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Space-Cream :shaved_ice:</h1>
+## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Space Cream :shaved_ice:</h1>
 
 <h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learnings :open_book:</h3>
 
@@ -18,24 +18,22 @@
 • Media queries. 
 </p>
 
-
-<br/>
 <br/>
 
 <div align="center">
-<h3>&nbsp;&nbsp;&nbsp;Figma :small_blue_diamond:</h3>
+<h2>&nbsp;&nbsp;&nbsp;Figma :small_blue_diamond:</h2>
+<br/>
 <a href="https://www.figma.com/file/NNOcmHW5IVNgldbOufuUgI/Stage-03-Grid-com-anima%C3%A7%C3%B5es-Copy?fuid=1130144160993271217"> <img height="50em" src="./assets/figmaicon.png" />
 </a>
 <br/>
 <sub><b>The project was based on this figma project above</b></sub>
-<br/>	
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies :hammer_and_wrench:</h3>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies :hammer_and_wrench:</h2>
 <br/>
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -44,9 +42,9 @@
 <br/>
 <br/>
 
-<div align="start">
-<h3>Page Preview :mag:</h3>
-<a href="https://alefwarchon.github.io/Space-Cream/">Link<a/>
+<div>
+<h2>Page Preview :mag:</h2>
+<h3>Link preview: <a href="https://alefwarchon.github.io/Space-Cream/">Space Cream<a/></h3>
 </div>
 
 
