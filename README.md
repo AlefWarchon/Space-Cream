@@ -1,21 +1,21 @@
-## <h1 align="center">Space-Cream</h1>
+## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Space-Cream :shaved_ice:</h1>
 
-<h3 align="center">Learnings</h3>
+<h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learnings :mortar_board:</h3>
 
 <p align="center">
-- Mobile First;
+• Mobile First;
 <br/>
-- Flexible Unit of Measurement;
+• Flexible Unit of Measurement;
 <br/>
-- Variables;
+• Variables;
 <br/>
-- Simple Animations.
+• Simple Animations.
 <br/>
-- Transitions;
+• Transitions;
 <br/>
-- Grid;
+• Grid;
 <br/>
-- Media queries. 
+• Media queries. 
 </p>
 
 
