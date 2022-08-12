@@ -18,7 +18,7 @@
 • Media queries. 
 </p>
 
-<br/>.
+<br/>
 
 <div align="center">
 <h2>&nbsp;&nbsp;&nbsp;Figma :small_blue_diamond:</h2>
