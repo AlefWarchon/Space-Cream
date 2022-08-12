@@ -1,6 +1,6 @@
 ## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Space-Cream :shaved_ice:</h1>
 
-<h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learnings :mortar_board:</h3>
+<h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learnings :open_book:</h3>
 
 <p align="center">
 • Mobile First;
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-<h3>Figma</h3>
+<h3>&nbsp;&nbsp;&nbsp;Figma :small_blue_diamond:</h3>
 <a href="https://www.figma.com/file/NNOcmHW5IVNgldbOufuUgI/Stage-03-Grid-com-anima%C3%A7%C3%B5es-Copy?fuid=1130144160993271217"> <img height="50em" src="./assets/figmaicon.png" />
 </a>
 <br/>
@@ -35,17 +35,17 @@
 <br/>
 
 <div align="center">
-<h3>Technologies</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies :hammer_and_wrench:</h3>
 <br/>
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
 <br/>
 <br/>
 
 <div align="start">
-<h3>Live Preview:</h3>
+<h3>Page Preview :mag:</h3>
 <a href="https://alefwarchon.github.io/Space-Cream/">Link<a/>
 </div>
 
