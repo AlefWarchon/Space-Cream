@@ -54,7 +54,7 @@
     
 <img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/109194445?s=96&v=4" width="75px;" />
 <h3>Alef Warchon</h3>
-<a href="https://www.linkedin.com/in/AlefWarchon" target="_blank"><img 
+<a href="https://www.linkedin.com/in/alef-warchon-400571245/" target="_blank"><img 
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 <a href="https://www.youtube.com/channel/UC8NcQCGYRvwA5iB7lIy7rCg" target="_blank"><img 
